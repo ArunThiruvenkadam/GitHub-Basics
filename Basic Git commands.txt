@@ -2,5 +2,8 @@ git --version
 git init
 git status
 git add
-git commit
+git commit -m "comments"
 git push
+git clone repository url
+git branch branchname - to create a new branch
+git checkout branchname - to switch between the branch
